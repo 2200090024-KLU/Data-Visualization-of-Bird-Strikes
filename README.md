@@ -26,4 +26,4 @@ Prior warning to the pilot reduces the risk of damage to the aircraft
 
 90.31% incidents caused no damage while 9.69% incidents caused damage
 
-80.84% of bird strike incidents have happened when the altitude of airplane was <1000 ft and 19.16% have happened when altitude was >1000 ft.
+80.84% of bird strike incidents have happened when the altitude of airplane was <1000 ft and 19.16% have happened when altitude was >1000 ft...
