@@ -10,7 +10,9 @@ A bird strike is strictly defined as a collision between a bird and an aircraft 
 
 # Tools Used👨‍🚒
 Power BI
+
 Python
+
 MS Excel
 
 # Conclusion😊
